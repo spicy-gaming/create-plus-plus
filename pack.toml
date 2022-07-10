@@ -1,0 +1,13 @@
+name = "Create++"
+author = "Jimmed"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "867762b11cc8de6997b805befe8a44b2bc6ca4511628ff686a900e0a3fcc7a88"
+
+[versions]
+forge = "40.1.60"
+minecraft = "1.18.2"

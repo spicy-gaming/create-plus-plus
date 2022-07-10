@@ -1,0 +1,13 @@
+name = "Screencopy"
+filename = "screenshotcopy-1.1.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aru7gAyl/versions/1.1.0/screenshotcopy-1.1.0-forge.jar"
+hash-format = "sha1"
+hash = "fcb4f537c0baab24db79b0609b45a059eb56fe18"
+
+[update]
+[update.modrinth]
+mod-id = "aru7gAyl"
+version = "sSsR9Url"

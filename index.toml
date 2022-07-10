@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "14b1a9c6c6f2a0c87189602f9ccce3e3535bab850a0c93e1467312ff5dd1cd86"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5f92380ca786cd96438d67661e656547ce89d02b19bafe1c71031fbf2ca0bf98"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "20191a7760863e795181595fafc2094d4f1ad7b254037cb4b4568c13bb451f11"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
+metafile = true
+
+[[files]]
+file = "mods/borderless.pw.toml"
+hash = "ee84a79e2079e59f32a1246cc98058786d1b59641c48c6cfbd4fbb3df66ccabd"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ee868e7edfb76bc7cc9e50970d33f37fbabbd5219b86fff38d9ec8e1bb15fd4a"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "c86f3f0a7e97087d083580747aa6c0bcf016e972f3dfff6cddcb908b218a69db"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "d32925cc3cd59d5dba62722f87e0efb4d149f45fd492f0374a72537c6ff99a75"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "96963fe0e7f130593ec33f6de15b14a6a2794fab9cff4a166c412d7808bee501"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2d0068cf8f42c43384e3fddc8515217160c1fe0c2bab918445be4bd9080acc9e"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "9e033d6319522bb6d57e4fef3b2e5717882794c9091f7d064fd918f7b8ea01e5"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
+metafile = true
+
+[[files]]
+file = "mods/right-click-get-crops.pw.toml"
+hash = "c1618e0c0273217c2f849419ad1f2965279d435c53b796a34e261712495330a9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "5b6cf4af7ef26a6206af067155f334a7a85a8081daaba6bf4248aabf943e67f0"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "0651e597e92aaad29e789060537e77d53f7112581a0c1236c847669339bacf03"
+metafile = true
+
+[[files]]
+file = "mods/screencopy.pw.toml"
+hash = "71dc7f7f92cab5244c46d19c6dd3e55cc7365d6155c693f59da7f137f7b7effc"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d1d30111da762051a712e0ec9b6f7f5c7d62bf67dfe2fb4fdbc8a6e2da08c05b"
+metafile = true

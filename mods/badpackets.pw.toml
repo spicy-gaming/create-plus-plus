@@ -1,0 +1,13 @@
+name = "bad packets"
+filename = "badpackets-forge-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/forge-0.1.2/badpackets-forge-0.1.2.jar"
+hash-format = "sha1"
+hash = "971fe0f657da5fc5b2e2be74286421671f7c9f64"
+
+[update]
+[update.modrinth]
+mod-id = "ftdbN0KK"
+version = "mtcdPvG3"
