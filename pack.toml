@@ -1,12 +1,12 @@
 name = "Create++"
-author = "Jimmed"
-version = "1.0.0"
+author = "Spicy Gaming"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "867762b11cc8de6997b805befe8a44b2bc6ca4511628ff686a900e0a3fcc7a88"
+hash = "3db1bd89f30f286b415b342591e90ce44762bb02017fc9f4582129dff4cb877b"
 
 [versions]
 forge = "40.1.60"
