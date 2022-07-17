@@ -3,11 +3,11 @@ filename = "rubidium-0.5.2a.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4ZqxOvjD/versions/0.5.2a/rubidium-0.5.2a.jar"
 hash-format = "sha1"
 hash = "f2104b404a0508daa1b362de9a491b69aaf26175"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "4ZqxOvjD"
-version = "suKMGRbi"
+[update.curseforge]
+file-id = 3749094
+project-id = 574856

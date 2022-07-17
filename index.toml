@@ -141,6 +141,11 @@ hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "46132850dcb392e935ab06fc3a9e4bc3dc45e1b6a339a3634dd1d81933dc3888"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "9712641d9636b08f77133035c011681888a86c9404af007b9024fe00a6ee608c"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "0651e597e92aaad29e789060537e77d53f7112581a0c1236c847669339bacf03"
+hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
 metafile = true
 
 [[files]]
