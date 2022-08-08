@@ -7,7 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5f92380ca786cd96438d67661e656547ce89d02b19bafe1c71031fbf2ca0bf98"
+hash = "a06a37d67b0bb504298d96dc127ac0de855f4a039dfdb06fa75e57d9afd1c0b5"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
@@ -42,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c86f3f0a7e97087d083580747aa6c0bcf016e972f3dfff6cddcb908b218a69db"
+hash = "70033587920b8d52692b85745093362a789c1167216bb79ebb7852d431e83598"
 metafile = true
 
 [[files]]
@@ -72,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "9e033d6319522bb6d57e4fef3b2e5717882794c9091f7d064fd918f7b8ea01e5"
+hash = "ecf724b67501ed0a91109a1264aa6e803f6ea028e8fb6f6af3ca4ace790dc0d2"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d3192ad3ff015d94690a91318089b56999f2e000761f6a5c19cdf35885c7f7b8"
+hash = "301188dca958f2ed559787774d511905dc4a590e8b3ae0d661da59794d5deef5"
 metafile = true
 
 [[files]]
@@ -102,27 +107,27 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "061b3035150614b3d93eb54126c93ff18de6293042d39d71a7faa9a9e2adb828"
+hash = "dbd3d4aadb7217435c9a2f5272106d8510859c0a60187e46154f0fce95bb7e3c"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "0ca595287f8fd128ab8dcd8473fe01e949998e67c120ada2a62fe9af6df73a5b"
+hash = "94ccf4f0eda91024b57bbc01c82fd641bf345768479a489f54f07381ec72ccf5"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "a0702f1592b5929b393524a8883488de34141181d7bf51b2e9c38fc6bfc75880"
+hash = "8dc9f6076efe97ca5ce0b9e1d6f43943c5ef4b232963fd4bbd186ec1d9201db5"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "508eae7ecaa2ac03b6b2bf6a809aedfa4109fc04a60e9584d889a7a362a641d3"
+hash = "4f2a7888e901c64aeff42413774a63cb91d93b714d50da4fae7a5c06bad5fda0"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "584951f6846b7b07854b54aefa40cb9f6db1f920a181d78e17865d6b907d8a46"
+hash = "569b9236d209b9c96c0c3838187c5aacd5aab99dc183ec41a3a4b1c4edbb599c"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "2caedea3fd2da4fcec3c69d067be9996d79f92bc76f2ec9051e4785241b9f147"
+hash = "b942507027c0cc43e68da2b799ac4bc29693c7218fecc55c35a97dd9c7fa0ab7"
 metafile = true
 
 [[files]]
@@ -156,6 +161,11 @@ hash = "46132850dcb392e935ab06fc3a9e4bc3dc45e1b6a339a3634dd1d81933dc3888"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "9712641d9636b08f77133035c011681888a86c9404af007b9024fe00a6ee608c"
 metafile = true
@@ -167,12 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "5b6cf4af7ef26a6206af067155f334a7a85a8081daaba6bf4248aabf943e67f0"
+hash = "e2309f0ef5a9b0e268c60bda44e18115f173802092ee0a558a50ef7b2d5fb1dc"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "8b3b87eff25081ebb3dcfc9753d7b7da6b33fa00146c0c0327cb8c2c5057548a"
+hash = "69b69540e29a90ddc568d454882eddee3dd80c6789b56a1d2da86ea721f8a513"
 metafile = true
 
 [[files]]
