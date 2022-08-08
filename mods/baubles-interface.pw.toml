@@ -1,0 +1,13 @@
+name = "Baubles Interface"
+filename = "baublesinterface-1.2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a0434adbac5d554d3b9145d99fba9534d54a5be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3545639
+project-id = 497223

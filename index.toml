@@ -16,6 +16,16 @@ hash = "20191a7760863e795181595fafc2094d4f1ad7b254037cb4b4568c13bb451f11"
 metafile = true
 
 [[files]]
+file = "mods/baubles-interface.pw.toml"
+hash = "fb191407709d7c43571e38b968448059b03f49a4329c933013bf6f367ca43f82"
+metafile = true
+
+[[files]]
+file = "mods/baubles-reborn.pw.toml"
+hash = "877e8baca9123011c28f02303263ab46162db9438a84898da75c06fa77e97303"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7da74fd4dc94275df9345369417dd6314076b69fb92a32846b9bb95f4e9eb0d4"
 metafile = true
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "c41ff04e09138f74b6ec9dc49753294d97f1bc3008c14caf838d4e2c40174f5a"
 metafile = true
 
 [[files]]

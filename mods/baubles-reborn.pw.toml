@@ -1,0 +1,13 @@
+name = "Baubles - Reborn?"
+filename = "baubles-1.10.0.1-1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3f7060a4d744363b03310d807e4c86302dc8e7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3576950
+project-id = 366844
